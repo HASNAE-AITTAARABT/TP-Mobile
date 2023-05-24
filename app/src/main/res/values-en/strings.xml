@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false"></string>
+    <string name="logo" translatable="false"></string>
+    <string name="slogan"></string>
+    <string name="textLogin">Hello</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="button">Login</string>
+    <string name="bienvenue">Welcome</string>
+    <string name="deconnect">Logout</string>
+    <string name="accountInformation">Account information</string>
+    <string name="fill_in">Please fill in all fields correctly!</string>
+
+</resources>
